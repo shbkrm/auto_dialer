@@ -1,0 +1,12 @@
+{
+    "name": "auto_dialer",
+    "version": "0.0.1",
+    "description": "Auto Dialer for ERPNext using Tata Smartflo",
+    "scripts": {
+      "build": "frappe build --app auto_dialer"
+    },
+    "devDependencies": {
+      "frappe": "latest"
+    }
+  }
+  

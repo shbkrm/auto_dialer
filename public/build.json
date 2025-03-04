@@ -1,0 +1,8 @@
+{
+    "auto_dialer": {
+      "js/auto_dialer.min.js": [
+        "public/js/auto_dialer.js"
+      ]
+    }
+  }
+  
