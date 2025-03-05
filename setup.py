@@ -11,7 +11,7 @@ setup(
     install_requires=[],
     entry_points={
         "console_scripts": [
-            "auto_dialer = auto_dialer.hooks"
+            "auto_dialer = auto_dialer.hooks:main"
         ]
     }
 )
